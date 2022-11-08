@@ -3,8 +3,4 @@
     android:id="@+id/flowContainer"
     android:name="com.allaber.iq.presentation.screens.start.view.StartFragment"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:fitsSystemWindows="true"
-    android:focusable="true">
-
-</androidx.fragment.app.FragmentContainerView>
+    android:layout_height="match_parent"></androidx.fragment.app.FragmentContainerView>

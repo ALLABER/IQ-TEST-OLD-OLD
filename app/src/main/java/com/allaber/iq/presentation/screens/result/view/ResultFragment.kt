@@ -12,7 +12,7 @@ import com.allaber.iq.presentation.screens.start.view.StartFragment
 
 class ResultFragment : Fragment(R.layout.fragment_result) {
 
-    private val binding: FragmentResultBinding by viewBinding(
+    private val binding by viewBinding(
         FragmentResultBinding::bind
     )
 

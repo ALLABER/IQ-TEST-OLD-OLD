@@ -14,7 +14,7 @@ import com.allaber.iq.presentation.screens.result.view.ResultFragment
 
 class TestFragment : Fragment(R.layout.fragment_test) {
 
-    private val binding: FragmentTestBinding by viewBinding(
+    private val binding by viewBinding(
         FragmentTestBinding::bind
     )
 

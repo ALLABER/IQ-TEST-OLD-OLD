@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IQ-TEST</string>
+    <string name="string_start_testing">Начать тестирование</string>
+    <string name="string_rate_the_app">Оценить приложение</string>
 </resources>
